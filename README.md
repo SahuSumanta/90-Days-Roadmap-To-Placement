@@ -6,7 +6,7 @@
 ### [Amazon Preparation Kit DSA SHEET by FRAZ](https://docs.google.com/document/d/128wI_LxgR8dBNsEuYvxv5tZuNx_UDdTeTMKVTnPksb0/edit) `GOAL:45 days`
 
 - [ ] https://leetcode.com/problems/valid-parentheses/ </br>
-- [ ] https://leetcode.com/problems/maximum-subarray/ </br>
+- [x] https://leetcode.com/problems/maximum-subarray/ </br>
 - [ ] https://leetcode.com/problems/search-a-2d-matrix/ </br>
 - [ ] https://leetcode.com/problems/permutations/ </br>
 - [ ] https://leetcode.com/problems/search-in-rotated-sorted-array/ </br>
@@ -17,7 +17,7 @@
 - [ ] https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ </br>
 - [ ] https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ </br>
 - [ ] https://leetcode.com/problems/minimum-window-substring/ </br>
-- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ </br>
+- [x] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ </br>
 - [ ] https://leetcode.com/problems/integer-to-english-words/ </br>
 - [ ] https://leetcode.com/problems/concatenated-words/ </br>
 - [ ] https://leetcode.com/problems/two-sum/ </br>
