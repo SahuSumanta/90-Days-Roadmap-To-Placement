@@ -7,7 +7,7 @@ import java.util.*;
  */
 public class MergeInterval {
 
-    public int[][] merge(int[][] intervals) {
+    public static int[][] merge(int[][] intervals) {
         List<int[]> res = new ArrayList<>();
         
         if(intervals.length == 0 || intervals == null) 
@@ -34,5 +34,6 @@ public class MergeInterval {
 
     public static void main(String[] args) {
         int[][] arr = {{1,3},{2,6},{8,10},{15,18}};
+        System.out.println(merge(arr));
     }
 }
