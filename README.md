@@ -20,7 +20,7 @@
 - [x] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ </br>
 - [ ] https://leetcode.com/problems/integer-to-english-words/ </br>
 - [ ] https://leetcode.com/problems/concatenated-words/ </br>
-- [ ] https://leetcode.com/problems/two-sum/ </br>
+- [x] https://leetcode.com/problems/two-sum/ </br>
 - [ ] https://leetcode.com/problems/majority-element/ </br>
 - [ ] https://leetcode.com/problems/spiral-matrix/ </br>
 - [ ] https://leetcode.com/problems/product-of-array-except-self/ </br>
